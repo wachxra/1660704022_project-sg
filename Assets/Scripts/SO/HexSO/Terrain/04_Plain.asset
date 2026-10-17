@@ -15,8 +15,8 @@ MonoBehaviour:
   hexName: Plain
   type: 4
   terrainSprites:
-  - {fileID: 21300000, guid: eb30b590a4550d642b336606861fce3a, type: 3}
+  - {fileID: 21300000, guid: 5cca2730b97e3b146b616d4c0f405e2e, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: 101be66b6a5bfa4489f316faffa4b445, type: 3}
+  - {fileID: 21300000, guid: 1d11a79ca15d480449d4f2243c1454a5, type: 3}
   resourceYield: 
   moveCost: 1

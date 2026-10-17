@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
   m_Name: 02_Haudenosaunee
   m_EditorClassIdentifier: Assembly-CSharp::FactionData
-  nation: 6
+  nation: 9
   isEuropean: 0
   flagIcon: {fileID: 21300000, guid: d5fb1abcff6d5ee4e950cd2a725f5f69, type: 3}
-  shieldIcon: {fileID: 21300000, guid: d5fb1abcff6d5ee4e950cd2a725f5f69, type: 3}
-  unitIcon: {fileID: 0}
+  shieldIcon: {fileID: -542610010313566252, guid: ca6b4d588ac771b49aa19409a426b8e8, type: 3}
+  unitIcon: {fileID: 21300000, guid: 5cd5dec94b7a381478ac9ef6af66baef, type: 3}
   townIcon: {fileID: 21300000, guid: 4742c902690af72409c609a3e2c715cf, type: 3}
   isTropicalNatives: 1

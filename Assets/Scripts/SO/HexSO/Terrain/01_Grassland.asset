@@ -15,8 +15,8 @@ MonoBehaviour:
   hexName: Grassland
   type: 1
   terrainSprites:
-  - {fileID: 21300000, guid: cfb99fde87eb1b246a895afecb8d577d, type: 3}
+  - {fileID: 21300000, guid: cb342f683a5f11342afed53a0f78239b, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: 2e07500e21b69274bb387fa7abfcf600, type: 3}
+  - {fileID: 21300000, guid: c0790b9fe6fd59348b9c2145692bd7df, type: 3}
   resourceYield: 
   moveCost: 1

@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
   m_Name: 06_Cherokee
   m_EditorClassIdentifier: Assembly-CSharp::FactionData
-  nation: 10
+  nation: 7
   isEuropean: 0
   flagIcon: {fileID: 21300000, guid: b06be345c7bc7ab45985c90502be87d5, type: 3}
-  shieldIcon: {fileID: 21300000, guid: b06be345c7bc7ab45985c90502be87d5, type: 3}
-  unitIcon: {fileID: 0}
+  shieldIcon: {fileID: 3907530062833443700, guid: 5e6015cc68e60ac40bdc91be65c76bc0, type: 3}
+  unitIcon: {fileID: 21300000, guid: 020276db8773b974682a7e5235b909e6, type: 3}
   townIcon: {fileID: 21300000, guid: 569e4e4d5ca57fe42ba631db3d77f84f, type: 3}
   isTropicalNatives: 0

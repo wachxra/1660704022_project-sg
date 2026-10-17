@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c4b5fad94210d84c97eed4a7492f7fc, type: 3}
   m_Name: 002_Galleon
   m_EditorClassIdentifier: Assembly-CSharp::NavalUnitData
-  unitName: Merchantman
+  unitName: Galleon
   navalUnitType: 2
-  strength: 6
-  movePointMax: 5
-  visualRange: 0
+  strength: 10
+  movePointMax: 6
+  visualRange: 1
   shipIcon: {fileID: 21300000, guid: d0fd60a2e58d2db45abb48c1c3f567e1, type: 3}
   armed: 0
-  cargoHoldNum: 4
+  cargoHoldNum: 6

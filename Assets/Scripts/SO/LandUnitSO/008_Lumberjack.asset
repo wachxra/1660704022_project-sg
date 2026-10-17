@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21eff75f97387564db5a12136276f7c8, type: 3}
   m_Name: 008_Lumberjack
   m_EditorClassIdentifier: Assembly-CSharp::LandUnitData
-  unitName: Tropical Indians
+  unitName: Lumberjack
   landUnitType: 8
   strength: 2
   movePointMax: 3

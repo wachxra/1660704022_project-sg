@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21eff75f97387564db5a12136276f7c8, type: 3}
   m_Name: 009_Carpenter
   m_EditorClassIdentifier: Assembly-CSharp::LandUnitData
-  unitName: Tropical Indians
+  unitName: Carpenter
   landUnitType: 9
   strength: 2
   movePointMax: 3

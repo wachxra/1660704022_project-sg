@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c4b5fad94210d84c97eed4a7492f7fc, type: 3}
   m_Name: 005_ManOfWar
   m_EditorClassIdentifier: Assembly-CSharp::NavalUnitData
-  unitName: Merchantman
+  unitName: ManOWar
   navalUnitType: 5
-  strength: 6
-  movePointMax: 5
-  visualRange: 0
+  strength: 24
+  movePointMax: 6
+  visualRange: 1
   shipIcon: {fileID: 21300000, guid: aa35bc742ee0c7d48ba9adf7482fa83e, type: 3}
-  armed: 0
-  cargoHoldNum: 4
+  armed: 1
+  cargoHoldNum: 6

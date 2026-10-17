@@ -15,8 +15,8 @@ MonoBehaviour:
   hexName: Prairie
   type: 2
   terrainSprites:
-  - {fileID: 21300000, guid: 41c755b797e87f34c8ffe7b668571621, type: 3}
+  - {fileID: 21300000, guid: 60bdea8b00bb3c24eba5220857b43986, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: be3411f1bfb17474ebe6cd658932d22a, type: 3}
+  - {fileID: 21300000, guid: dd96469bd347ffa4894389888cce751a, type: 3}
   resourceYield: 
   moveCost: 1

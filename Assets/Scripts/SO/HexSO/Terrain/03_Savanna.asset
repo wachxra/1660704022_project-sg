@@ -15,8 +15,8 @@ MonoBehaviour:
   hexName: Savanna
   type: 3
   terrainSprites:
-  - {fileID: 21300000, guid: 529d4172c1609504e9eebfca0edb89e4, type: 3}
+  - {fileID: 21300000, guid: 2f20d952872bd8d42b8b4b14a6454eeb, type: 3}
   forestSprites:
-  - {fileID: 21300000, guid: 0f7a657062b001447a598c7badd2ccb0, type: 3}
+  - {fileID: 21300000, guid: 054b8dce64c893245852b8cb642a4ad5, type: 3}
   resourceYield: 
   moveCost: 1

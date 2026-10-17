@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
   m_Name: 04_Huastec
   m_EditorClassIdentifier: Assembly-CSharp::FactionData
-  nation: 8
+  nation: 10
   isEuropean: 0
   flagIcon: {fileID: 21300000, guid: 6d74c309f4f552342828699f42026988, type: 3}
-  shieldIcon: {fileID: 21300000, guid: 6d74c309f4f552342828699f42026988, type: 3}
-  unitIcon: {fileID: 0}
+  shieldIcon: {fileID: 5445549292003561361, guid: 727c548b73953144e816e7f8584cb815, type: 3}
+  unitIcon: {fileID: 21300000, guid: 9bacf705dc27d764bb562103f78048bb, type: 3}
   townIcon: {fileID: 21300000, guid: b05360779e3076c43828b32a8fcef1b7, type: 3}
   isTropicalNatives: 0
