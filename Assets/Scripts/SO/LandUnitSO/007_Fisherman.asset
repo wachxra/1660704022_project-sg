@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 007_Fisherman
   m_EditorClassIdentifier: Assembly-CSharp::LandUnitData
   unitName: Tropical Indians
-  landUnitType: 4
+  landUnitType: 7
   strength: 2
   movePointMax: 3
   visualRange: 1
-  unitIcon: {fileID: 21300000, guid: 0ecaa1dda51eb554cb76809fed0abf6d, type: 3}
+  unitIcon: {fileID: 21300000, guid: 72a146d47bcf0834a8e2deec1dbd536e, type: 3}
   armed: 0
   hasMusket: 0
   hasHorse: 0
